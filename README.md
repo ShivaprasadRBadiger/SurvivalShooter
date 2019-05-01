@@ -3,12 +3,11 @@ Unity's Survival Shooter AI Behavior Modification
 
 This is Unity's Survival shooter project with following modifications:
 
-**Reloading:** The current game allows for the player to fire infinitely. We would like you to add
-a reloading system. This would allow the designer to specify a *magazine size* and *reload
+**Reloading:** Added reloading system. This would allow the designer to specify a *magazine size* and *reload
 delay* in the editor. The gun should fire *magazine size* bullets then take *reload delay*
 seconds to reload.
 **Scoreboard:** The game does not currently keep track of how many enemies you have
-downed. Please provide an endgame summary. This scoring should be integrated into the
+downed. Added endgame summary. This scoring should be integrated into the
 existing UI.
 **Better AI:** The AI currently just sets the player as a target and moves towards the player.
 You are tasked with developing different "personalities" for each of the 3 enemy types.
